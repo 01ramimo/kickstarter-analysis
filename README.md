@@ -9,6 +9,7 @@ There was a learning curve with using Excel in this capacity. For instance, maki
   
 ### Analysis of Outcomes Based on Launch Date
 This analysis focused on parent category “theater” by creating a pivotable dataset containing parent category and year. It was straightforward once all the data was in a readable format and choosing the appropriate pivotable fields in the columns, rows and value section in order to populate the desired outcome.
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89875689/132951432-ba8b6062-968a-4304-a1a0-e3558c088d54.png)
 
 ### Analysis of Outcomes Based on Goals
